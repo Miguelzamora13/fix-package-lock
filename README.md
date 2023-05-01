@@ -3,11 +3,8 @@
 Fix package-lock.json by regenerating it
 
 <img src="fix-package-lock.gif" width="688">
+
 [![Node.js CI](https://github.com/Miguelzamora13/fix-package-lock/actions/workflows/node.js.yml/badge.svg)](https://github.com/Miguelzamora13/fix-package-lock/actions/workflows/node.js.yml)
-
-
-
-
 
 ## Getting Started
 
